@@ -18,6 +18,7 @@ Computer Science Engineering
 
 ##### July - August 2016
 Designed, developed, and implemented a web application for the internal rating model of the CDG
+
 Tools :  **Spring MVC Framework, Liferay, Hibernate, iText**
 
 ### Contact me
