@@ -22,7 +22,7 @@ permalink: /about/
 
 ##### {{ experience.date }}
 {{ experience.description }}  
-Tools :  {% for tool in experience.tools %} **{{ tool }}** {% endfor %} **
+Tools :  {% for tool in experience.tools %} **{{ tool }},** {% endfor %}
 {% endfor %} 
 ### Contact me
 
