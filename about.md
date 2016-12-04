@@ -17,8 +17,7 @@ Computer Science Engineering
 #### CDG : Caisse de Dépôt et de Gestion
 
 ##### July - August 2016
-Designed, developed, and implemented a web application for the internal rating model of the CDG
-
+Designed, developed, and implemented a web application for the internal rating model of the CDG  
 Tools :  **Spring MVC Framework, Liferay, Hibernate, iText**
 
 ### Contact me
