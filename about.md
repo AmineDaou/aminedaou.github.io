@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### ![edu]({{ site.baseurl }}/images/edu.png) Education
+## ![edu]({{ site.baseurl }}/images/edu.png) Education
 {% for edu in site.education %} 
      
 #### :mortar_board: {{ edu.school }}
@@ -15,7 +15,7 @@ permalink: /about/
 {% endfor %} 
 
 
-### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
+## ![work]({{ site.baseurl }}/images/work.png) Professional Experience
 {% for experience in site.experiences %} 
 
 #### :briefcase: {{ experience.employer }}
