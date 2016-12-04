@@ -11,8 +11,11 @@ permalink: /about/
 ##### 2017 - Ongoing
 Computer Science Engineering
 (M.Eng.)
+
 ### Professional Experience
+
 #### CDG : Caisse de Dépôt et de Gestion
+
 ##### July - August 2016
 Designed, developed, and implemented a web application for the internal rating model of the CDG
 Tools :  **Spring MVC Framework, Liferay, Hibernate, iText**
