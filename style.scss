@@ -30,6 +30,23 @@ body {
   width: 100%;
 }
 
+/** tools labels  **/
+.label-padded {
+	padding: 5px; 
+}
+.label-info, .badge-info {
+	background-color: #005985;
+	text-shadow:none;
+	font-weight: normal;
+	
+}
+.label {
+	padding: 1px 4px 2px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
