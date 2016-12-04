@@ -12,7 +12,7 @@ permalink: /about/
 Computer Science Engineering
 (M.Eng.)
 
-### Professional Experience
+### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
 
 #### CDG : Caisse de Dépôt et de Gestion
 
