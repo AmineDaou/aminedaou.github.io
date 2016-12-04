@@ -11,6 +11,7 @@ permalink: /about/
 ##### 2017 - Ongoing 
 Computer Science Engineering
 (M.Eng.)
+
 ### Professional Experience
 
 #### CDG : Caisse de Dépôt et de Gestion
