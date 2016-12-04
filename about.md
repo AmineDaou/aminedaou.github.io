@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+![edu]({{ site.baseurl }}/images/edu.png) ### Education
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Mohammadia School of Engineers
+##### 2017 - Ongoing 
+
+Computer Science Engineering
+(M.Eng.)
+
+### Professional Experience
+#### CDG : Caisse de Dépôt et de Gestion
+##### July - August 2016
+
+Designed, developed, and implemented a web application for the internal rating model of the CDG
+Tools :  **Spring MVC Framework, Liferay, Hibernate, iText **
 
 ### Contact me
 
