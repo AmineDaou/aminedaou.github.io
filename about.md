@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![edu]({{ site.baseurl }}/images/edu.png) ### Education
+### ![edu]({{ site.baseurl }}/images/edu.png)Education
 
 #### Mohammadia School of Engineers
 ##### 2017 - Ongoing 
