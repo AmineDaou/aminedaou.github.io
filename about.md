@@ -16,13 +16,14 @@ permalink: /about/
 
 
 ### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
+{% for experience in site.experiences %} 
 
-#### CDG : Caisse de Dépôt et de Gestion
+#### {{ experience.employer }}
 
-##### July - August 2016
-Designed, developed, and implemented a web application for the internal rating model of the CDG  
-Tools :  **Spring MVC Framework, Liferay, Hibernate, iText**
-
+##### {{ experience.date }}
+{{ experience.description }}  
+Tools :  **{% for tool in site.tools %}{{ tool }},{% endfor %}**
+{% endfor %} 
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)

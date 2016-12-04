@@ -51,10 +51,14 @@ education:
 # Exprerience 
  
 experiences: 
- - employer: 
-   date: 
-   description: 
+ - employer: CDG - Caisse de Dépôt et de Gestion
+   date: July - August 2016
+   description: Designed, developed, and implemented a web application for the internal rating model of the CDG
    tools: 
+    - Spring MVC Framework
+    - Liferay
+    - Hibernate
+    - iText
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
