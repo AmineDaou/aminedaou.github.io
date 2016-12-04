@@ -7,7 +7,7 @@ permalink: /about/
 ### ![edu]({{ site.baseurl }}/images/edu.png) Education
 {% for edu in site.education %} 
      
-:+1:! #### {{ edu.school }} 
+:mortar_board: #### {{ edu.school }} 
  
 ##### {{ edu.start }} - {{ edu.end }} 
 {{ edu.subject }} 
@@ -18,7 +18,7 @@ permalink: /about/
 ### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
 {% for experience in site.experiences %} 
 
-#### {{ experience.employer }}
+:briefcase: #### {{ experience.employer }}
 
 ##### {{ experience.date }}
 {{ experience.description }}  
@@ -26,4 +26,4 @@ Tools :  {% for tool in experience.tools %} <span class="label label-info label-
 {% endfor %} 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aminedaoudimail@gmail.com](mailto:aminedaoudimail@gmail.com)
