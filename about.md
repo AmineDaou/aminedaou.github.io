@@ -9,7 +9,7 @@ permalink: /about/
      
 #### :mortar_board: {{ edu.school }}
  
-##### {{ edu.start }} - {{ edu.end }} 
+##### {{ edu.start }} {% if edu.end == '' %} {% endif %} {{ edu.end }} 
 {{ edu.subject }} 
 {{ edu.level }} 
 {% endfor %} 
