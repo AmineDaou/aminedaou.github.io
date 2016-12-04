@@ -39,6 +39,23 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
+# Education 
+ 
+education: 
+ - level: (M.Eng.) 
+   start: 2014 
+   end: Ongoing 
+   subject: Computer Science Engineering 
+   school: Mohammadia School of Engineers 
+ 
+# Exprerience 
+ 
+experiences: 
+ - employer: 
+   date: 
+   description: 
+   tools: 
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url:

@@ -5,12 +5,15 @@ permalink: /about/
 ---
 
 ### ![edu]({{ site.baseurl }}/images/edu.png) Education
+{% for edu in site.education %} 
+     
+#### {{ edu.school }} 
+ 
+##### {{ edu.start }} - {{ edu.end }} 
+{{ edu.subject }} 
+{{ edu.level }} 
+{% endfor %} 
 
-#### Mohammadia School of Engineers
-
-##### 2017 - Ongoing
-Computer Science Engineering
-(M.Eng.)
 
 ### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
 
