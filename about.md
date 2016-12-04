@@ -1,10 +1,13 @@
 ---
+layout: page
 title: About
 permalink: /about/
 ---
 
 ### ![edu]({{ site.baseurl }}/images/edu.png) Education
+
 #### Mohammadia School of Engineers
+
 ##### 2017 - Ongoing
 Computer Science Engineering
 (M.Eng.)
