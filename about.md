@@ -7,7 +7,7 @@ permalink: /about/
 ### ![edu]({{ site.baseurl }}/images/edu.png) Education
 {% for edu in site.education %} 
      
-:mortar_board: #### {{ edu.school }} 
+#### {{ edu.school }} :mortar_board:
  
 ##### {{ edu.start }} - {{ edu.end }} 
 {{ edu.subject }} 
@@ -18,7 +18,7 @@ permalink: /about/
 ### ![work]({{ site.baseurl }}/images/work.png) Professional Experience
 {% for experience in site.experiences %} 
 
-:briefcase: #### {{ experience.employer }}
+#### {{ experience.employer }} :briefcase:
 
 ##### {{ experience.date }}
 {{ experience.description }}  
