@@ -7,7 +7,7 @@ permalink: /about/
 ### ![edu]({{ site.baseurl }}/images/edu.png) Education
 {% for edu in site.education %} 
      
-#### {{ edu.school }} 
+:+1:! #### {{ edu.school }} 
  
 ##### {{ edu.start }} - {{ edu.end }} 
 {{ edu.subject }} 
