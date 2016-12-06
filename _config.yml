@@ -68,6 +68,14 @@ experiences:
     - Liferay
     - Hibernate
     - iText
+ - employer: Province of Taourirt
+   date: July 2015
+   description: Designed, developed, and implemented a web application for the management of civil servants
+   tools: 
+    - PHP
+    - MySQL
+    - JavaScript
+    - CSS
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
