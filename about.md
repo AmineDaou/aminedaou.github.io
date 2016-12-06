@@ -16,6 +16,10 @@ permalink: /resume/
 
 </div>
 
+<div class="section" markdown="1">
+
 ### Contact me
 
 [aminedaoudimail@gmail.com](mailto:aminedaoudimail@gmail.com)
+
+</div>
