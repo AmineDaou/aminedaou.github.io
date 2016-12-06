@@ -10,7 +10,11 @@ permalink: /resume/
 
 </div>
 
+<div class="section" markdown="1">
+
 {% include experience.md %}
+
+</div>
 
 ### Contact me
 
