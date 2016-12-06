@@ -4,7 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
+<div class="section" markdown="1">
+
 {% include education.md %}
+
+</div>
 
 {% include experience.md %}
 
