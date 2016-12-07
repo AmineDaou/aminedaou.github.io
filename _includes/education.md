@@ -6,6 +6,8 @@
 ##### {{ edu.start }} {% if edu.end != blank %} - {% endif %} {{ edu.end }} 
 {{ edu.subject }} 
 {{ edu.level }}
+{% if forloop.last != true %}
 
 * * *
+{% endif %}
 {% endfor %} 
