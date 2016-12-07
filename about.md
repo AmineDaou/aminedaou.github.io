@@ -6,6 +6,12 @@ permalink: /resume/
 
 <div class="section" markdown="1">
 
+{% include skills.md %}
+
+</div>
+
+<div class="section" markdown="1">
+
 {% include education.md %}
 
 </div>
