@@ -24,7 +24,7 @@ permalink: /resume/
 
 <div class="section" markdown="1">
 
-### ![mail]({{ site.baseurl }}/images/mail.png) Contact me
+### ![mail]({{ site.baseurl }}/images/mail.png) Contact Me
 
 [aminedaoudimail@gmail.com](mailto:aminedaoudimail@gmail.com)
 
